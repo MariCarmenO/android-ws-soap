@@ -1,0 +1,3 @@
+C:\AS_Proyectos\curso-android-src-AS-master\android-ws-soap5\app\build\intermediates\classes\debug
+C:\AS_Proyectos\curso-android-src-AS-master\android-ws-soap5\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.4.0-jar-with-dependencies-8dbfdcb584ac97dc9ec9be2a1ac76f96dadfb86d.jar
+C:\AS_Proyectos\curso-android-src-AS-master\android-ws-soap5\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-1b4f82c9d378433e10effdff7e5dbd23e5b9b3d5.jar
