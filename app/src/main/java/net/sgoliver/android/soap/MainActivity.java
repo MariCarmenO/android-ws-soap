@@ -87,7 +87,7 @@ public class MainActivity extends Activity {
 	    	boolean resul = true;
 	 
 	    	final String NAMESPACE = "http://tempuri.org/";
-			final String URL="http://10.107.49.229:80/ServicioWebSoap1/ServicioClientes.asmx";
+			final String URL="http://192.168.1.35:80/ServicioWebSoap2/ServicioClientes.asmx";
 			final String METHOD_NAME = "ListadoClientes";
 			final String SOAP_ACTION = "http://tempuri.org/ListadoClientes";
 
